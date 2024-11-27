@@ -28,7 +28,7 @@ text =  clocks[int(current_hour)] + " " + formatted_time
 
 data = {
     "text": text,
-    "tooltip": "",
+    "tooltip": "", # TODO: Not sure what to add for this, will probably do later
     "class":current_hour
 }
 
