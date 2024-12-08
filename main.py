@@ -4,6 +4,7 @@ from datetime import datetime
 import json
 
 clocks = [
+    "", # 0 (never gonna happen bud)
     "󱑋", # 1
     "󱑌", # 2
     "󱑍", # 3
